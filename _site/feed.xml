@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Practice Everything</title>
+		<description>keep writing</description>
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>java 中初始化成员变量的顺序</title>
+				
+				
+					<description>&lt;p&gt;从jvm的角度出发, 当一个类被jvm加载后, jvm 会以如下顺序初始化:&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 20 Aug 2015 00:00:00 +0200</pubDate>
+				<link>/java-field-initialization-order/</link>
+				<guid isPermaLink="true">/java-field-initialization-order/</guid>
+			</item>
+		
+			<item>
+				<title>Standard Post</title>
+				
+				
+					<description>&lt;p&gt;Here you can see the basic post. No fancy type, no setting and the featured image is just embedded into the content.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 10 Feb 2015 00:00:00 +0100</pubDate>
+				<link>/standard/</link>
+				<guid isPermaLink="true">/standard/</guid>
+			</item>
+		
+			<item>
+				<title>YouTube</title>
+				
+				
+					<description>&lt;p&gt;This is a youtube post type video.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 09 Feb 2015 00:00:00 +0100</pubDate>
+				<link>/youtube/</link>
+				<guid isPermaLink="true">/youtube/</guid>
+			</item>
+		
+			<item>
+				<title>Audio</title>
+				
+				
+					<description>&lt;p&gt;This audio post is displays without a sidebar and has the iframe set for the index pages, instead of a featured image.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 08 Feb 2015 00:00:00 +0100</pubDate>
+				<link>/audio/</link>
+				<guid isPermaLink="true">/audio/</guid>
+			</item>
+		
+			<item>
+				<title>Image</title>
+				
+				
+					<description>&lt;p&gt;Here you see an image post in the standard layout, with sidebar.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 07 Feb 2015 00:00:00 +0100</pubDate>
+				<link>/img/</link>
+				<guid isPermaLink="true">/img/</guid>
+			</item>
+		
+			<item>
+				<title>Gallery</title>
+				
+				
+					<description>&lt;p&gt;Here you&amp;#8217;ll find a simple gallery, that just adds all of the images at full-width directly in the post content.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 06 Feb 2015 00:00:00 +0100</pubDate>
+				<link>/gallery/</link>
+				<guid isPermaLink="true">/gallery/</guid>
+			</item>
+		
+			<item>
+				<title>Full Width Post</title>
+				
+				
+					<description>&lt;p&gt;a standard post displayed at full-width, only requires a layout, variable.&lt;br /&gt;
+The featured image will be added at the beginning of the content, but not above it, as in an image post.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 05 Feb 2015 00:00:00 +0100</pubDate>
+				<link>/standard-full/</link>
+				<guid isPermaLink="true">/standard-full/</guid>
+			</item>
+		
+			<item>
+				<title>YouTube full</title>
+				
+				
+					<description>&lt;p&gt;This youtube video uses the iframe instead of the thumbnail image on the index pages.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 04 Feb 2015 00:00:00 +0100</pubDate>
+				<link>/youtube-full/</link>
+				<guid isPermaLink="true">/youtube-full/</guid>
+			</item>
+		
+			<item>
+				<title>Audio Full</title>
+				
+				
+					<description>&lt;p&gt;This audio post is displays without a sidebar and has a featured image set for the index pages.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 03 Feb 2015 00:00:00 +0100</pubDate>
+				<link>/audio-full/</link>
+				<guid isPermaLink="true">/audio-full/</guid>
+			</item>
+		
+			<item>
+				<title>Image Full</title>
+				
+				
+					<description>&lt;p&gt;Here you see an image post with a full-width layout.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 02 Feb 2015 00:00:00 +0100</pubDate>
+				<link>/img-full/</link>
+				<guid isPermaLink="true">/img-full/</guid>
+			</item>
+		
+			<item>
+				<title>Gallery Alternative</title>
+				
+				
+					<description>&lt;p&gt;An alternative to the simple gallery would be this version, which displays the post ins a lightbox.&lt;br /&gt;
+The setup basically is the same, the include makes all the difference.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 01 Feb 2015 00:00:00 +0100</pubDate>
+				<link>/gallery-alt/</link>
+				<guid isPermaLink="true">/gallery-alt/</guid>
+			</item>
+		
+			<item>
+				<title>Vimeo</title>
+				
+				
+					<description>&lt;p&gt;this is a video post using the vimeo format.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 31 Jan 2015 00:00:00 +0100</pubDate>
+				<link>/vimeo/</link>
+				<guid isPermaLink="true">/vimeo/</guid>
+			</item>
+		
+	</channel>
+</rss>
